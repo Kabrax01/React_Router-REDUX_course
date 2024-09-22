@@ -10,3 +10,6 @@ Currently, two official plugins are available:
 # Dev deps
 
 -   npm i eslint vite-plugin-eslint eslint-config-react-app --save-dev
+-   npm install -D tailwindcss postcss autoprefixer
+-   npx tailwindcss init -p
+-   npm install -D prettier prettier-plugin-tailwindcss
